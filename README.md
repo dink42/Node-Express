@@ -6,7 +6,7 @@
 
 ## About the project
 
-> A node project from begging to more advanced. Forst Folder is about the basic of importing exporting modules. There will be howtos if you want to learn this as I push more to the project the readme will be updated.
+> A node project from beginng to more advanced. Forst Folder is about the basic of importing exporting modules. There will be howtos if you want to learn this as I push more to the project the readme will be updated.
 
 ### Steps, Howtos and implementations
 
