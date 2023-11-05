@@ -6,9 +6,9 @@
 
 ## About the project
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> A node project from begging to more advanced. Forst Folder is about the basic of importing exporting modules. There will be howtos if you want to learn this as I push more to the project the readme will be updated.
 
-### Future for the project
+### Steps, Howtos and implementations
 
     1. Placeholder
         - Placeholder
@@ -25,4 +25,4 @@
 
 ### Future
 
-> Lorem.
+> As of now I will start working in the commonjs folder and use modules already in node.
